@@ -1,0 +1,1057 @@
+id,race,age_cat,c_charge_degree,priors_count,is_recid
+4927,African-American,25 to 45,F,More than 3,1
+6983,African-American,Greater than 45,M,More than 3,0
+8832,African-American,Less than 25,F,1 to 3,1
+1186,Caucasian,Less than 25,M,1 to 3,1
+9706,Caucasian,Less than 25,M,More than 3,0
+8608,African-American,25 to 45,M,1 to 3,1
+8045,Caucasian,Less than 25,F,More than 3,1
+5334,African-American,25 to 45,M,More than 3,0
+7650,Caucasian,25 to 45,F,1 to 3,1
+9626,African-American,25 to 45,F,More than 3,1
+8362,Caucasian,25 to 45,F,More than 3,1
+6473,African-American,25 to 45,F,More than 3,1
+518,African-American,Greater than 45,F,1 to 3,0
+4453,African-American,25 to 45,F,More than 3,1
+1505,African-American,Less than 25,F,0,1
+10432,African-American,Greater than 45,F,More than 3,0
+1692,Caucasian,Greater than 45,M,1 to 3,0
+10069,Caucasian,25 to 45,F,0,0
+7717,African-American,25 to 45,F,More than 3,1
+6433,Caucasian,25 to 45,F,1 to 3,1
+8847,African-American,25 to 45,F,1 to 3,1
+2513,African-American,Less than 25,F,More than 3,1
+4065,Caucasian,Less than 25,F,1 to 3,1
+858,African-American,25 to 45,M,0,0
+9620,Caucasian,Less than 25,F,1 to 3,1
+8100,African-American,25 to 45,M,More than 3,1
+9519,Caucasian,25 to 45,F,More than 3,1
+3570,Caucasian,25 to 45,M,0,1
+3679,Caucasian,Greater than 45,M,0,1
+8781,Caucasian,25 to 45,M,More than 3,1
+4443,Caucasian,25 to 45,F,0,0
+4637,African-American,25 to 45,F,1 to 3,1
+8641,Caucasian,Greater than 45,M,1 to 3,0
+6078,Caucasian,25 to 45,F,0,0
+6859,Caucasian,Less than 25,F,0,1
+8914,African-American,Less than 25,F,1 to 3,1
+8130,African-American,Greater than 45,F,1 to 3,0
+7678,African-American,25 to 45,F,More than 3,1
+8792,Caucasian,25 to 45,F,0,1
+9739,African-American,Greater than 45,F,More than 3,1
+5989,Caucasian,25 to 45,M,0,0
+1803,Caucasian,25 to 45,M,0,0
+7694,African-American,Greater than 45,M,0,0
+8789,Caucasian,Less than 25,M,1 to 3,0
+5929,Caucasian,25 to 45,F,1 to 3,1
+9921,African-American,25 to 45,M,1 to 3,0
+2885,African-American,25 to 45,F,More than 3,1
+71,Caucasian,25 to 45,F,1 to 3,1
+7362,African-American,Less than 25,M,More than 3,1
+2516,African-American,Less than 25,F,1 to 3,0
+9172,African-American,Less than 25,F,0,1
+10363,African-American,Less than 25,F,1 to 3,1
+6296,African-American,25 to 45,M,1 to 3,1
+4276,African-American,Less than 25,F,0,1
+7975,Caucasian,Less than 25,F,More than 3,1
+4521,Caucasian,25 to 45,F,0,0
+4971,African-American,Less than 25,F,1 to 3,1
+1863,African-American,25 to 45,F,1 to 3,1
+2935,Caucasian,Greater than 45,M,0,0
+2997,African-American,25 to 45,F,More than 3,1
+2422,African-American,25 to 45,F,1 to 3,0
+10553,African-American,25 to 45,F,More than 3,1
+5831,African-American,Less than 25,F,1 to 3,0
+5366,Caucasian,Greater than 45,F,More than 3,1
+2915,Caucasian,25 to 45,F,1 to 3,1
+9676,African-American,25 to 45,F,1 to 3,0
+3331,African-American,25 to 45,F,1 to 3,1
+5725,African-American,Less than 25,F,1 to 3,1
+9323,Caucasian,Less than 25,M,More than 3,1
+3181,Caucasian,Less than 25,F,0,1
+5895,Caucasian,Less than 25,F,1 to 3,0
+3381,African-American,25 to 45,M,1 to 3,1
+5216,African-American,25 to 45,M,More than 3,1
+4787,African-American,25 to 45,F,0,0
+6722,Caucasian,25 to 45,M,1 to 3,0
+1419,Caucasian,25 to 45,M,1 to 3,0
+7847,Caucasian,25 to 45,M,0,0
+5506,Caucasian,Less than 25,F,1 to 3,1
+8235,African-American,Less than 25,F,More than 3,1
+4447,African-American,Less than 25,F,1 to 3,1
+495,African-American,25 to 45,F,0,0
+9208,African-American,25 to 45,F,More than 3,1
+10176,African-American,25 to 45,F,More than 3,1
+798,Caucasian,Greater than 45,F,1 to 3,1
+889,Caucasian,Less than 25,M,1 to 3,0
+2156,Caucasian,Greater than 45,F,1 to 3,1
+1246,African-American,25 to 45,M,1 to 3,1
+6481,African-American,Less than 25,M,0,1
+5960,Caucasian,Greater than 45,M,0,0
+4505,Caucasian,Less than 25,F,0,0
+8518,African-American,Less than 25,F,1 to 3,1
+3605,African-American,25 to 45,F,0,0
+2828,African-American,Less than 25,M,0,1
+5294,African-American,25 to 45,F,More than 3,0
+2767,Caucasian,Greater than 45,M,1 to 3,1
+10283,African-American,25 to 45,F,More than 3,1
+10519,African-American,25 to 45,M,1 to 3,1
+7514,Caucasian,25 to 45,F,1 to 3,0
+3274,African-American,Less than 25,F,0,0
+10674,African-American,25 to 45,F,More than 3,0
+2804,African-American,25 to 45,M,More than 3,1
+2361,Caucasian,Greater than 45,M,1 to 3,1
+1429,African-American,25 to 45,F,More than 3,1
+7354,Caucasian,Greater than 45,M,More than 3,0
+5604,African-American,25 to 45,F,More than 3,0
+1780,African-American,25 to 45,F,1 to 3,0
+9335,African-American,Greater than 45,F,More than 3,1
+7406,African-American,Less than 25,F,1 to 3,1
+7289,African-American,25 to 45,F,More than 3,1
+3261,Caucasian,Greater than 45,F,1 to 3,0
+6048,African-American,25 to 45,F,More than 3,0
+5729,Caucasian,Less than 25,M,More than 3,1
+4452,African-American,25 to 45,F,More than 3,1
+2098,Caucasian,Greater than 45,M,0,0
+926,African-American,25 to 45,M,More than 3,1
+2928,African-American,25 to 45,M,1 to 3,0
+4491,African-American,25 to 45,F,1 to 3,1
+4579,African-American,Greater than 45,F,0,1
+4617,Caucasian,25 to 45,M,0,1
+542,African-American,Less than 25,F,1 to 3,1
+319,Caucasian,Greater than 45,F,More than 3,1
+8996,African-American,Less than 25,F,1 to 3,0
+2096,Caucasian,Greater than 45,F,More than 3,1
+1791,African-American,25 to 45,F,More than 3,1
+9129,African-American,25 to 45,F,1 to 3,0
+1913,African-American,Less than 25,F,0,0
+4023,Caucasian,25 to 45,M,0,0
+10637,Caucasian,25 to 45,M,More than 3,1
+6863,African-American,25 to 45,F,0,0
+8560,Caucasian,Greater than 45,M,1 to 3,0
+1895,African-American,25 to 45,F,More than 3,1
+4610,African-American,25 to 45,F,More than 3,1
+7100,African-American,25 to 45,M,More than 3,1
+7037,African-American,25 to 45,F,More than 3,1
+4977,Caucasian,25 to 45,F,More than 3,1
+3396,African-American,Greater than 45,M,0,0
+10532,African-American,25 to 45,M,More than 3,1
+3835,Caucasian,Greater than 45,M,0,0
+288,Caucasian,25 to 45,F,0,1
+6375,African-American,25 to 45,M,1 to 3,1
+2150,African-American,25 to 45,F,1 to 3,1
+1735,Caucasian,25 to 45,M,0,0
+5774,Caucasian,Greater than 45,F,1 to 3,0
+7429,Caucasian,Less than 25,M,0,1
+1682,Caucasian,25 to 45,F,1 to 3,0
+561,Caucasian,25 to 45,M,1 to 3,0
+4419,Caucasian,Less than 25,F,0,1
+2602,African-American,Greater than 45,F,More than 3,0
+6146,African-American,25 to 45,M,0,0
+522,Caucasian,25 to 45,F,0,0
+9279,Caucasian,25 to 45,M,0,0
+7292,African-American,25 to 45,F,More than 3,0
+8954,Caucasian,Greater than 45,M,0,0
+6111,African-American,Greater than 45,M,0,0
+4841,Caucasian,Greater than 45,M,0,0
+142,Caucasian,25 to 45,F,More than 3,1
+9864,African-American,25 to 45,M,1 to 3,1
+7324,Caucasian,25 to 45,F,0,0
+4072,African-American,25 to 45,F,0,0
+2955,African-American,25 to 45,M,1 to 3,0
+9070,Caucasian,Greater than 45,F,More than 3,1
+2901,African-American,25 to 45,F,More than 3,1
+6659,African-American,Less than 25,F,0,0
+26,African-American,Less than 25,F,1 to 3,1
+987,African-American,25 to 45,F,More than 3,1
+7932,African-American,25 to 45,M,1 to 3,0
+3965,Caucasian,Greater than 45,M,0,0
+9167,African-American,25 to 45,F,0,0
+5371,Caucasian,25 to 45,F,1 to 3,1
+3543,Caucasian,25 to 45,F,More than 3,1
+2604,African-American,25 to 45,F,More than 3,1
+5863,African-American,Greater than 45,F,More than 3,1
+4933,African-American,25 to 45,F,More than 3,0
+2485,African-American,25 to 45,F,1 to 3,0
+7226,Caucasian,25 to 45,F,More than 3,1
+3616,African-American,Greater than 45,F,More than 3,1
+1295,Caucasian,25 to 45,F,0,0
+8745,Caucasian,25 to 45,M,1 to 3,1
+7869,African-American,Less than 25,F,1 to 3,1
+3407,Caucasian,Greater than 45,M,1 to 3,0
+4028,African-American,25 to 45,M,0,0
+3034,African-American,25 to 45,M,1 to 3,0
+8799,African-American,Less than 25,F,1 to 3,1
+9773,African-American,Less than 25,F,1 to 3,1
+3854,African-American,Less than 25,F,1 to 3,1
+7033,African-American,Less than 25,F,1 to 3,1
+4698,African-American,Greater than 45,F,More than 3,0
+4567,African-American,Greater than 45,M,0,0
+10346,African-American,25 to 45,M,More than 3,1
+5814,Caucasian,25 to 45,M,0,1
+6328,African-American,Greater than 45,F,More than 3,0
+10095,African-American,25 to 45,F,1 to 3,0
+10645,African-American,25 to 45,F,0,0
+3702,Caucasian,Greater than 45,F,More than 3,1
+1360,African-American,25 to 45,F,1 to 3,1
+7722,African-American,Less than 25,F,1 to 3,1
+5244,Caucasian,25 to 45,F,1 to 3,0
+87,African-American,25 to 45,F,More than 3,0
+640,African-American,Less than 25,F,0,1
+9597,Caucasian,Less than 25,M,0,0
+10921,African-American,25 to 45,M,1 to 3,0
+6696,African-American,Less than 25,F,0,0
+10561,African-American,Less than 25,M,More than 3,0
+8554,African-American,25 to 45,F,0,1
+9350,Caucasian,25 to 45,F,More than 3,0
+1711,Caucasian,25 to 45,M,0,0
+300,Caucasian,25 to 45,M,0,0
+5988,Caucasian,Less than 25,M,0,0
+2320,African-American,Less than 25,F,0,1
+1257,African-American,Less than 25,M,1 to 3,1
+1471,Caucasian,Less than 25,M,1 to 3,1
+5928,Caucasian,Greater than 45,F,0,0
+3215,Caucasian,Greater than 45,M,0,0
+3935,African-American,Less than 25,F,0,0
+5033,African-American,25 to 45,F,0,0
+2303,Caucasian,25 to 45,M,0,0
+10981,African-American,25 to 45,F,More than 3,0
+1951,African-American,Less than 25,F,1 to 3,0
+4562,African-American,25 to 45,M,More than 3,0
+10577,Caucasian,Greater than 45,M,0,1
+2777,African-American,25 to 45,M,1 to 3,0
+10059,African-American,25 to 45,F,More than 3,0
+2624,African-American,Greater than 45,F,0,1
+108,Caucasian,25 to 45,F,1 to 3,1
+9754,African-American,25 to 45,F,1 to 3,1
+7426,African-American,25 to 45,F,More than 3,0
+5420,African-American,Less than 25,F,1 to 3,1
+355,African-American,25 to 45,F,More than 3,0
+315,African-American,25 to 45,F,1 to 3,0
+7770,African-American,25 to 45,F,More than 3,0
+5301,African-American,25 to 45,F,0,1
+10178,Caucasian,Greater than 45,F,0,0
+3499,African-American,25 to 45,F,More than 3,1
+5027,African-American,25 to 45,F,More than 3,1
+10228,Caucasian,Greater than 45,F,1 to 3,0
+10723,Caucasian,25 to 45,F,More than 3,1
+6520,African-American,25 to 45,F,1 to 3,0
+959,African-American,Less than 25,F,More than 3,1
+5278,Caucasian,Less than 25,F,0,1
+9032,African-American,25 to 45,M,0,0
+1710,Caucasian,25 to 45,M,0,1
+628,Caucasian,25 to 45,M,0,1
+7551,African-American,Less than 25,M,0,1
+8054,African-American,Greater than 45,F,More than 3,0
+5331,African-American,25 to 45,M,0,0
+4537,African-American,25 to 45,F,More than 3,0
+6901,African-American,Less than 25,F,0,0
+4748,African-American,25 to 45,M,0,0
+3031,Caucasian,25 to 45,F,More than 3,1
+4037,Caucasian,Less than 25,M,1 to 3,1
+6172,Caucasian,25 to 45,F,1 to 3,1
+8053,African-American,Less than 25,F,1 to 3,1
+5130,African-American,25 to 45,F,1 to 3,0
+9557,African-American,25 to 45,M,1 to 3,0
+3821,African-American,Greater than 45,F,1 to 3,0
+180,African-American,25 to 45,M,1 to 3,0
+4931,Caucasian,Greater than 45,F,0,1
+9336,African-American,25 to 45,F,More than 3,0
+465,Caucasian,25 to 45,F,0,0
+8403,African-American,Less than 25,F,0,1
+10695,Caucasian,25 to 45,M,More than 3,1
+2239,Caucasian,25 to 45,M,More than 3,0
+1817,African-American,25 to 45,F,More than 3,1
+3329,Caucasian,25 to 45,M,0,1
+3699,Caucasian,25 to 45,F,1 to 3,0
+1768,African-American,Greater than 45,F,0,0
+4960,Caucasian,25 to 45,M,1 to 3,1
+8257,African-American,25 to 45,M,More than 3,1
+4160,Caucasian,25 to 45,M,1 to 3,1
+4002,African-American,25 to 45,M,0,0
+1272,African-American,25 to 45,F,More than 3,1
+3551,African-American,Less than 25,F,1 to 3,1
+10107,African-American,25 to 45,F,1 to 3,0
+7387,Caucasian,25 to 45,F,More than 3,0
+3302,Caucasian,25 to 45,F,1 to 3,1
+4171,African-American,Less than 25,F,0,0
+2737,African-American,25 to 45,F,More than 3,1
+6554,African-American,25 to 45,F,0,0
+6315,African-American,25 to 45,F,More than 3,1
+3153,Caucasian,25 to 45,F,0,0
+4750,Caucasian,25 to 45,F,More than 3,0
+6114,Caucasian,25 to 45,F,1 to 3,0
+10888,African-American,25 to 45,F,More than 3,1
+7906,African-American,25 to 45,F,1 to 3,1
+726,Caucasian,25 to 45,F,More than 3,1
+8322,African-American,25 to 45,F,More than 3,1
+7422,African-American,Less than 25,F,1 to 3,0
+6361,African-American,Less than 25,F,1 to 3,0
+6323,Caucasian,Greater than 45,M,1 to 3,1
+2984,African-American,Greater than 45,M,More than 3,0
+7639,African-American,25 to 45,F,0,0
+4834,African-American,25 to 45,F,1 to 3,0
+6425,African-American,25 to 45,F,1 to 3,0
+10018,African-American,Less than 25,F,0,0
+2841,Caucasian,Less than 25,M,1 to 3,0
+5753,Caucasian,25 to 45,M,0,0
+10818,Caucasian,25 to 45,F,More than 3,1
+1300,Caucasian,Less than 25,M,0,0
+5398,African-American,Less than 25,M,0,0
+2937,Caucasian,Less than 25,F,0,1
+9592,Caucasian,25 to 45,F,1 to 3,0
+3939,African-American,25 to 45,F,1 to 3,1
+7443,African-American,25 to 45,M,1 to 3,0
+1648,Caucasian,Greater than 45,F,0,0
+2318,Caucasian,Less than 25,F,0,1
+2621,Caucasian,25 to 45,F,1 to 3,1
+7419,African-American,Less than 25,F,1 to 3,0
+5627,African-American,25 to 45,F,More than 3,1
+10193,African-American,Less than 25,M,1 to 3,0
+7493,African-American,Less than 25,F,0,1
+1709,African-American,25 to 45,M,More than 3,1
+2226,Caucasian,25 to 45,M,1 to 3,1
+9266,African-American,25 to 45,F,0,0
+2936,African-American,25 to 45,F,1 to 3,0
+1379,African-American,Less than 25,F,1 to 3,1
+8185,African-American,Greater than 45,M,More than 3,1
+3319,Caucasian,25 to 45,F,0,0
+6695,African-American,25 to 45,F,More than 3,0
+2329,African-American,25 to 45,F,More than 3,1
+5501,African-American,25 to 45,F,1 to 3,1
+2865,African-American,Less than 25,F,1 to 3,1
+8354,Caucasian,25 to 45,F,More than 3,1
+4330,African-American,25 to 45,M,1 to 3,1
+6185,African-American,25 to 45,F,1 to 3,1
+2256,Caucasian,Greater than 45,F,0,0
+1303,African-American,Less than 25,F,1 to 3,1
+7204,Caucasian,25 to 45,M,1 to 3,0
+1630,Caucasian,Greater than 45,F,More than 3,0
+2110,African-American,Less than 25,F,1 to 3,0
+5282,Caucasian,25 to 45,F,0,1
+2326,African-American,25 to 45,F,More than 3,1
+630,Caucasian,Less than 25,F,0,0
+7440,African-American,25 to 45,F,More than 3,0
+5381,African-American,25 to 45,M,More than 3,1
+9178,African-American,25 to 45,M,1 to 3,1
+2567,Caucasian,25 to 45,M,1 to 3,0
+8972,African-American,25 to 45,M,1 to 3,1
+4831,Caucasian,25 to 45,M,More than 3,0
+2887,African-American,25 to 45,M,0,0
+7187,African-American,25 to 45,M,More than 3,1
+3576,Caucasian,Greater than 45,F,More than 3,0
+9586,African-American,Less than 25,M,0,1
+965,African-American,25 to 45,F,0,0
+8248,Caucasian,25 to 45,M,More than 3,1
+8048,Caucasian,25 to 45,F,1 to 3,0
+16,Caucasian,25 to 45,M,0,0
+3778,Caucasian,25 to 45,M,1 to 3,1
+8835,African-American,25 to 45,M,1 to 3,0
+656,African-American,25 to 45,F,1 to 3,0
+19,Caucasian,Greater than 45,F,1 to 3,1
+4021,African-American,25 to 45,F,1 to 3,0
+5162,Caucasian,25 to 45,F,0,0
+2959,African-American,25 to 45,M,1 to 3,0
+1995,Caucasian,Greater than 45,F,More than 3,1
+10680,African-American,Less than 25,F,1 to 3,1
+3015,Caucasian,Greater than 45,M,1 to 3,1
+5035,Caucasian,25 to 45,F,More than 3,0
+3419,African-American,25 to 45,F,More than 3,1
+8111,African-American,25 to 45,F,More than 3,1
+6511,African-American,25 to 45,M,1 to 3,1
+3917,African-American,Less than 25,F,0,1
+228,African-American,25 to 45,F,More than 3,1
+9102,African-American,Less than 25,M,1 to 3,1
+1907,African-American,Less than 25,F,1 to 3,1
+9241,Caucasian,25 to 45,F,1 to 3,0
+9969,Caucasian,Greater than 45,F,More than 3,1
+3713,African-American,25 to 45,F,1 to 3,1
+4533,Caucasian,Less than 25,F,1 to 3,1
+9570,African-American,Less than 25,F,0,1
+5246,Caucasian,Greater than 45,M,0,0
+4316,African-American,Greater than 45,F,More than 3,1
+9980,African-American,25 to 45,F,1 to 3,1
+1172,African-American,25 to 45,M,0,0
+6980,African-American,25 to 45,F,More than 3,1
+2968,African-American,25 to 45,M,More than 3,1
+6717,Caucasian,25 to 45,F,1 to 3,0
+7255,African-American,25 to 45,M,More than 3,1
+963,Caucasian,25 to 45,F,1 to 3,0
+921,African-American,25 to 45,M,1 to 3,0
+2961,African-American,25 to 45,F,0,1
+5071,African-American,25 to 45,F,1 to 3,0
+7272,African-American,Greater than 45,F,More than 3,0
+2425,Caucasian,25 to 45,F,More than 3,1
+5380,African-American,25 to 45,F,More than 3,1
+10918,Caucasian,25 to 45,F,1 to 3,0
+4596,African-American,Greater than 45,M,0,1
+3550,African-American,25 to 45,F,More than 3,1
+10494,African-American,Less than 25,M,1 to 3,1
+10450,Caucasian,25 to 45,M,1 to 3,1
+4544,African-American,25 to 45,M,1 to 3,1
+3763,African-American,25 to 45,F,More than 3,1
+1109,African-American,Greater than 45,F,0,1
+4307,African-American,Less than 25,F,1 to 3,1
+10196,Caucasian,25 to 45,F,More than 3,0
+2042,African-American,Greater than 45,F,More than 3,0
+4463,Caucasian,Greater than 45,F,More than 3,1
+9710,African-American,25 to 45,F,More than 3,1
+10354,African-American,Less than 25,M,0,0
+2526,Caucasian,Greater than 45,M,0,0
+9324,Caucasian,25 to 45,F,1 to 3,1
+1497,Caucasian,25 to 45,F,More than 3,1
+4198,African-American,25 to 45,F,More than 3,1
+4084,African-American,25 to 45,F,More than 3,0
+2649,Caucasian,Greater than 45,F,1 to 3,0
+1093,Caucasian,Less than 25,M,0,0
+10774,African-American,Greater than 45,F,More than 3,1
+7266,Caucasian,Less than 25,F,0,0
+3969,African-American,Less than 25,F,1 to 3,1
+9296,African-American,25 to 45,F,More than 3,1
+5544,African-American,Less than 25,F,1 to 3,0
+6685,African-American,25 to 45,M,0,0
+8401,Caucasian,25 to 45,F,More than 3,1
+4397,African-American,25 to 45,F,1 to 3,1
+4388,Caucasian,25 to 45,F,1 to 3,1
+10753,African-American,Less than 25,F,1 to 3,1
+3771,African-American,25 to 45,F,More than 3,1
+7545,Caucasian,Less than 25,F,1 to 3,0
+8949,African-American,25 to 45,M,1 to 3,0
+1923,Caucasian,25 to 45,M,More than 3,1
+8294,Caucasian,Greater than 45,M,0,0
+8679,African-American,25 to 45,F,1 to 3,0
+4591,Caucasian,25 to 45,F,More than 3,0
+645,African-American,Less than 25,F,1 to 3,0
+8639,African-American,Less than 25,F,1 to 3,1
+3995,African-American,Less than 25,F,1 to 3,1
+10456,African-American,25 to 45,F,More than 3,1
+3480,African-American,Greater than 45,M,1 to 3,0
+10416,African-American,Less than 25,M,1 to 3,0
+922,Caucasian,25 to 45,F,More than 3,1
+4773,African-American,Less than 25,F,1 to 3,0
+5654,African-American,25 to 45,F,0,0
+9076,African-American,25 to 45,M,1 to 3,1
+5108,Caucasian,Greater than 45,M,0,0
+2952,African-American,Less than 25,F,0,0
+2688,African-American,25 to 45,F,1 to 3,1
+9603,African-American,25 to 45,F,More than 3,1
+6888,African-American,25 to 45,M,0,0
+2867,Caucasian,25 to 45,F,0,0
+1463,African-American,25 to 45,M,More than 3,1
+10062,Caucasian,25 to 45,F,1 to 3,1
+9852,African-American,Less than 25,F,1 to 3,1
+9043,Caucasian,25 to 45,F,More than 3,1
+5579,African-American,25 to 45,F,More than 3,0
+4668,Caucasian,Greater than 45,F,1 to 3,0
+3087,African-American,25 to 45,F,1 to 3,1
+6508,African-American,25 to 45,F,More than 3,0
+5432,Caucasian,Greater than 45,M,More than 3,1
+1056,Caucasian,Greater than 45,F,1 to 3,1
+3745,Caucasian,25 to 45,F,1 to 3,1
+2845,Caucasian,Greater than 45,F,More than 3,1
+5251,Caucasian,Less than 25,F,1 to 3,0
+5906,African-American,25 to 45,M,1 to 3,0
+775,Caucasian,Greater than 45,M,More than 3,0
+9771,African-American,25 to 45,M,More than 3,0
+4509,African-American,Less than 25,F,0,1
+10490,Caucasian,25 to 45,F,0,1
+6968,African-American,25 to 45,F,More than 3,1
+6487,African-American,25 to 45,M,0,0
+289,African-American,25 to 45,F,More than 3,1
+7335,African-American,Less than 25,F,1 to 3,1
+5078,African-American,25 to 45,F,1 to 3,0
+6030,African-American,Greater than 45,F,More than 3,0
+84,African-American,Greater than 45,M,More than 3,0
+5849,African-American,25 to 45,M,0,0
+10336,African-American,25 to 45,M,1 to 3,1
+2058,African-American,Less than 25,F,0,1
+8112,African-American,Greater than 45,M,1 to 3,0
+7334,African-American,25 to 45,F,More than 3,1
+2671,African-American,25 to 45,F,More than 3,1
+2615,African-American,Greater than 45,F,0,0
+1243,Caucasian,25 to 45,M,0,0
+4970,African-American,25 to 45,F,1 to 3,0
+1456,African-American,25 to 45,F,More than 3,1
+6693,Caucasian,25 to 45,M,0,0
+3168,African-American,25 to 45,F,More than 3,1
+402,African-American,Greater than 45,F,0,0
+9155,Caucasian,Less than 25,F,1 to 3,1
+2992,African-American,25 to 45,F,0,0
+7321,African-American,25 to 45,F,0,0
+6400,African-American,25 to 45,F,0,1
+464,Caucasian,25 to 45,M,1 to 3,1
+4879,African-American,25 to 45,F,1 to 3,1
+2014,Caucasian,25 to 45,M,0,0
+5194,African-American,Greater than 45,F,0,0
+1130,Caucasian,25 to 45,F,More than 3,1
+2486,Caucasian,25 to 45,M,More than 3,0
+5100,Caucasian,25 to 45,F,1 to 3,1
+7342,Caucasian,25 to 45,F,0,1
+2651,African-American,Greater than 45,M,More than 3,0
+7331,Caucasian,25 to 45,F,0,1
+10130,African-American,Greater than 45,F,1 to 3,0
+2283,African-American,25 to 45,M,More than 3,1
+5360,Caucasian,Greater than 45,F,More than 3,0
+1893,Caucasian,Less than 25,M,More than 3,0
+6319,African-American,Less than 25,M,1 to 3,1
+9378,Caucasian,25 to 45,F,1 to 3,1
+10402,Caucasian,Greater than 45,M,1 to 3,0
+8754,Caucasian,25 to 45,F,1 to 3,0
+7048,African-American,25 to 45,M,0,1
+3617,African-American,25 to 45,M,More than 3,0
+1397,African-American,Greater than 45,M,1 to 3,0
+8373,Caucasian,Greater than 45,M,1 to 3,0
+5711,Caucasian,Greater than 45,F,1 to 3,1
+10922,Caucasian,Greater than 45,M,More than 3,0
+8419,African-American,25 to 45,F,0,0
+7705,Caucasian,Greater than 45,F,1 to 3,0
+2233,Caucasian,Less than 25,F,1 to 3,1
+2544,Caucasian,25 to 45,F,More than 3,1
+6715,African-American,25 to 45,M,0,0
+6446,Caucasian,25 to 45,M,0,1
+1238,Caucasian,25 to 45,M,1 to 3,1
+4884,Caucasian,25 to 45,M,0,0
+949,Caucasian,Less than 25,F,1 to 3,1
+1829,Caucasian,25 to 45,F,0,0
+8396,African-American,25 to 45,F,More than 3,1
+651,African-American,25 to 45,F,1 to 3,0
+5525,Caucasian,25 to 45,F,More than 3,1
+10258,Caucasian,Greater than 45,F,1 to 3,1
+1587,Caucasian,Greater than 45,F,1 to 3,0
+2090,African-American,Less than 25,M,0,0
+6402,African-American,25 to 45,M,1 to 3,0
+5350,Caucasian,25 to 45,F,1 to 3,1
+7606,Caucasian,25 to 45,M,More than 3,1
+5243,African-American,Less than 25,F,0,1
+10932,African-American,25 to 45,F,More than 3,0
+7788,African-American,25 to 45,F,More than 3,1
+1229,African-American,25 to 45,F,More than 3,0
+2057,African-American,25 to 45,F,More than 3,1
+1908,Caucasian,Less than 25,M,0,1
+8046,African-American,25 to 45,F,More than 3,1
+4254,African-American,Greater than 45,M,More than 3,0
+4893,African-American,25 to 45,F,0,0
+3464,Caucasian,Less than 25,F,1 to 3,1
+8675,Caucasian,25 to 45,F,More than 3,0
+7238,Caucasian,Greater than 45,M,0,0
+8418,Caucasian,25 to 45,F,0,0
+2261,African-American,Greater than 45,F,1 to 3,0
+5768,African-American,Greater than 45,M,More than 3,0
+1077,African-American,Less than 25,F,0,1
+2186,Caucasian,25 to 45,F,1 to 3,1
+3411,Caucasian,25 to 45,F,0,0
+6169,Caucasian,Less than 25,F,More than 3,1
+2412,Caucasian,25 to 45,F,More than 3,0
+3973,Caucasian,Greater than 45,F,1 to 3,1
+6741,African-American,Less than 25,M,1 to 3,0
+136,African-American,25 to 45,M,1 to 3,0
+6733,African-American,Less than 25,F,0,0
+4217,Caucasian,25 to 45,F,1 to 3,1
+9560,Caucasian,Less than 25,F,More than 3,1
+7391,African-American,Less than 25,F,0,1
+5153,African-American,25 to 45,F,More than 3,1
+3577,African-American,25 to 45,F,More than 3,0
+9126,African-American,25 to 45,M,1 to 3,0
+8869,African-American,Greater than 45,M,0,0
+9529,African-American,25 to 45,F,More than 3,1
+8196,Caucasian,Greater than 45,F,More than 3,1
+6687,Caucasian,25 to 45,F,More than 3,1
+10372,Caucasian,25 to 45,M,0,1
+5014,African-American,25 to 45,F,More than 3,1
+9883,African-American,25 to 45,F,More than 3,1
+5743,Caucasian,Greater than 45,M,0,0
+3090,African-American,25 to 45,F,1 to 3,0
+10730,African-American,25 to 45,M,1 to 3,0
+9963,African-American,Less than 25,F,1 to 3,0
+7281,Caucasian,25 to 45,M,0,0
+2650,African-American,25 to 45,F,0,0
+9196,Caucasian,25 to 45,F,0,1
+10126,Caucasian,Less than 25,M,0,1
+9056,African-American,Greater than 45,F,More than 3,1
+2290,African-American,25 to 45,F,1 to 3,1
+4336,African-American,Less than 25,F,1 to 3,0
+5726,Caucasian,Greater than 45,M,1 to 3,1
+2676,Caucasian,25 to 45,F,1 to 3,1
+2632,Caucasian,Greater than 45,F,More than 3,0
+2236,African-American,25 to 45,F,More than 3,1
+7503,African-American,25 to 45,F,1 to 3,0
+2758,African-American,25 to 45,F,0,0
+8877,Caucasian,Greater than 45,F,1 to 3,0
+2985,Caucasian,Greater than 45,F,0,1
+10072,Caucasian,25 to 45,F,More than 3,1
+2534,Caucasian,Greater than 45,F,1 to 3,1
+5717,African-American,25 to 45,M,1 to 3,1
+8936,African-American,25 to 45,M,0,0
+8428,Caucasian,25 to 45,F,More than 3,1
+3614,African-American,25 to 45,F,1 to 3,1
+1125,African-American,25 to 45,F,More than 3,1
+7210,African-American,25 to 45,F,1 to 3,0
+10692,African-American,25 to 45,M,More than 3,1
+1268,African-American,25 to 45,F,1 to 3,1
+7871,African-American,Less than 25,F,1 to 3,1
+3183,African-American,25 to 45,F,1 to 3,1
+7008,African-American,Greater than 45,M,More than 3,1
+5806,Caucasian,25 to 45,F,0,1
+9085,Caucasian,25 to 45,F,1 to 3,0
+7733,African-American,25 to 45,M,1 to 3,1
+435,African-American,25 to 45,M,More than 3,0
+5889,African-American,Greater than 45,F,1 to 3,1
+5313,Caucasian,25 to 45,M,0,1
+320,African-American,25 to 45,F,More than 3,0
+5930,Caucasian,25 to 45,F,0,1
+8527,Caucasian,Greater than 45,M,More than 3,1
+7648,African-American,Less than 25,M,0,0
+10393,African-American,25 to 45,F,More than 3,1
+853,African-American,Greater than 45,M,1 to 3,0
+5168,African-American,Less than 25,F,More than 3,1
+10670,African-American,Greater than 45,F,0,0
+2892,African-American,Greater than 45,F,1 to 3,0
+3642,African-American,25 to 45,F,1 to 3,1
+6919,African-American,25 to 45,F,0,1
+5550,African-American,Less than 25,F,More than 3,1
+1248,Caucasian,25 to 45,M,1 to 3,1
+8278,African-American,Greater than 45,F,1 to 3,1
+56,African-American,Less than 25,F,1 to 3,0
+5873,African-American,25 to 45,F,More than 3,1
+1143,African-American,Less than 25,F,0,1
+6066,Caucasian,Greater than 45,M,More than 3,0
+10958,Caucasian,Greater than 45,F,1 to 3,0
+4518,African-American,Less than 25,F,More than 3,1
+2287,African-American,25 to 45,M,More than 3,1
+1569,African-American,25 to 45,M,More than 3,1
+7663,Caucasian,Greater than 45,F,0,0
+7667,Caucasian,25 to 45,M,1 to 3,0
+5594,Caucasian,Less than 25,M,1 to 3,1
+9010,African-American,25 to 45,F,1 to 3,1
+4775,Caucasian,25 to 45,F,1 to 3,1
+7107,African-American,25 to 45,F,More than 3,1
+10066,African-American,Greater than 45,F,More than 3,0
+7450,African-American,25 to 45,M,More than 3,1
+8944,African-American,25 to 45,F,0,0
+4067,Caucasian,25 to 45,M,1 to 3,1
+9346,African-American,25 to 45,M,0,0
+7343,Caucasian,25 to 45,F,0,0
+8630,African-American,25 to 45,F,More than 3,1
+10042,African-American,25 to 45,F,More than 3,1
+8280,African-American,25 to 45,M,More than 3,0
+8207,Caucasian,25 to 45,M,1 to 3,1
+5892,African-American,Less than 25,F,0,1
+10399,Caucasian,25 to 45,F,1 to 3,0
+9054,African-American,25 to 45,M,More than 3,1
+9566,Caucasian,Less than 25,F,1 to 3,1
+6894,African-American,25 to 45,M,1 to 3,0
+8619,Caucasian,25 to 45,F,0,0
+6071,African-American,Greater than 45,F,More than 3,0
+3512,African-American,25 to 45,F,More than 3,1
+337,African-American,Greater than 45,F,More than 3,0
+3227,Caucasian,25 to 45,F,1 to 3,1
+4226,Caucasian,25 to 45,F,1 to 3,1
+6468,African-American,Greater than 45,F,1 to 3,0
+9392,Caucasian,Greater than 45,M,1 to 3,1
+1540,African-American,25 to 45,F,1 to 3,0
+2732,African-American,Greater than 45,F,More than 3,1
+4353,Caucasian,25 to 45,M,More than 3,1
+8715,African-American,Less than 25,M,0,1
+9176,Caucasian,25 to 45,F,1 to 3,1
+9240,African-American,25 to 45,F,1 to 3,1
+10706,African-American,25 to 45,M,0,0
+5341,Caucasian,25 to 45,F,More than 3,1
+2208,African-American,25 to 45,F,1 to 3,1
+9885,African-American,Less than 25,F,0,0
+6749,Caucasian,Less than 25,M,0,0
+440,African-American,25 to 45,F,More than 3,1
+4001,African-American,25 to 45,F,0,1
+10088,African-American,25 to 45,F,1 to 3,0
+7768,Caucasian,Greater than 45,M,1 to 3,0
+1910,Caucasian,Greater than 45,F,1 to 3,1
+9173,Caucasian,Less than 25,F,1 to 3,0
+1060,African-American,25 to 45,F,1 to 3,0
+2141,Caucasian,25 to 45,F,0,1
+7166,African-American,25 to 45,F,1 to 3,0
+3462,Caucasian,25 to 45,M,1 to 3,1
+9880,Caucasian,Greater than 45,M,0,0
+5247,African-American,Less than 25,F,1 to 3,1
+7393,African-American,Less than 25,M,0,1
+4300,Caucasian,Greater than 45,F,1 to 3,0
+1841,Caucasian,25 to 45,M,1 to 3,0
+8021,Caucasian,Greater than 45,F,More than 3,0
+2639,African-American,25 to 45,M,0,0
+9402,African-American,25 to 45,F,More than 3,1
+7222,Caucasian,25 to 45,F,More than 3,1
+6051,African-American,Less than 25,M,1 to 3,0
+5981,Caucasian,25 to 45,M,1 to 3,1
+2035,African-American,25 to 45,F,0,1
+8386,African-American,Less than 25,F,0,0
+7949,Caucasian,25 to 45,M,0,0
+3678,Caucasian,25 to 45,F,1 to 3,0
+5369,African-American,Greater than 45,M,0,0
+5171,Caucasian,25 to 45,F,0,0
+2429,Caucasian,25 to 45,F,1 to 3,0
+8456,African-American,25 to 45,M,1 to 3,0
+4385,African-American,25 to 45,M,1 to 3,1
+3838,African-American,Greater than 45,M,1 to 3,0
+8526,African-American,25 to 45,M,0,0
+9574,African-American,25 to 45,F,More than 3,0
+598,African-American,25 to 45,F,More than 3,1
+4003,Caucasian,25 to 45,M,0,0
+3511,Caucasian,Less than 25,F,0,0
+9364,African-American,Greater than 45,M,More than 3,0
+4081,Caucasian,25 to 45,F,1 to 3,0
+7542,African-American,Greater than 45,F,More than 3,1
+955,African-American,Greater than 45,F,More than 3,1
+3622,African-American,25 to 45,M,1 to 3,1
+9919,African-American,25 to 45,M,0,0
+2610,African-American,Greater than 45,F,1 to 3,0
+4377,African-American,Less than 25,F,1 to 3,1
+2198,Caucasian,Greater than 45,F,1 to 3,0
+7338,African-American,Less than 25,F,More than 3,1
+7197,Caucasian,25 to 45,F,0,0
+2095,Caucasian,Greater than 45,F,0,1
+4584,Caucasian,Greater than 45,M,1 to 3,0
+2787,African-American,25 to 45,F,0,1
+7985,African-American,25 to 45,F,0,0
+7835,African-American,25 to 45,M,More than 3,1
+5117,African-American,Less than 25,F,1 to 3,1
+9832,Caucasian,25 to 45,M,1 to 3,1
+9060,Caucasian,25 to 45,M,1 to 3,1
+9799,Caucasian,25 to 45,F,0,1
+9712,African-American,25 to 45,F,1 to 3,1
+2503,African-American,25 to 45,F,More than 3,1
+4534,African-American,25 to 45,M,0,0
+1439,Caucasian,Less than 25,F,0,0
+8009,African-American,25 to 45,F,More than 3,1
+8406,Caucasian,25 to 45,F,More than 3,1
+2055,African-American,Less than 25,F,More than 3,0
+6205,African-American,Greater than 45,F,More than 3,1
+1999,African-American,25 to 45,M,0,0
+10217,African-American,25 to 45,F,More than 3,1
+5858,Caucasian,25 to 45,M,0,0
+1942,Caucasian,25 to 45,M,1 to 3,0
+10220,African-American,Less than 25,F,1 to 3,0
+7237,Caucasian,25 to 45,M,1 to 3,0
+3470,African-American,Less than 25,F,1 to 3,1
+9918,Caucasian,25 to 45,M,1 to 3,0
+8899,African-American,25 to 45,F,More than 3,1
+2240,African-American,25 to 45,F,More than 3,1
+4104,African-American,Greater than 45,F,0,1
+7945,Caucasian,25 to 45,F,1 to 3,0
+2157,African-American,Less than 25,M,1 to 3,1
+3500,Caucasian,25 to 45,M,1 to 3,0
+2825,Caucasian,Less than 25,F,1 to 3,1
+10803,Caucasian,25 to 45,F,More than 3,0
+9119,African-American,25 to 45,F,More than 3,1
+10327,Caucasian,Less than 25,M,0,0
+1059,African-American,Less than 25,M,1 to 3,0
+6926,Caucasian,25 to 45,F,1 to 3,1
+5431,Caucasian,25 to 45,M,1 to 3,1
+2211,African-American,Less than 25,F,More than 3,1
+9483,African-American,25 to 45,F,More than 3,1
+790,African-American,25 to 45,F,More than 3,0
+6432,Caucasian,25 to 45,F,1 to 3,0
+10864,African-American,Less than 25,F,1 to 3,1
+8065,African-American,25 to 45,M,More than 3,1
+7154,Caucasian,Greater than 45,M,1 to 3,0
+6574,African-American,25 to 45,F,1 to 3,1
+5112,African-American,25 to 45,F,More than 3,1
+5776,Caucasian,25 to 45,F,1 to 3,0
+9663,African-American,25 to 45,M,1 to 3,0
+10575,Caucasian,25 to 45,F,More than 3,0
+4389,Caucasian,25 to 45,F,1 to 3,0
+5295,African-American,25 to 45,F,1 to 3,1
+5205,Caucasian,Less than 25,F,More than 3,1
+8107,Caucasian,Greater than 45,M,1 to 3,0
+8989,African-American,Less than 25,M,1 to 3,1
+6451,African-American,25 to 45,F,More than 3,1
+1388,Caucasian,Greater than 45,F,1 to 3,1
+3863,Caucasian,25 to 45,M,0,0
+8298,Caucasian,25 to 45,F,0,0
+2451,Caucasian,Greater than 45,M,0,0
+9080,Caucasian,25 to 45,F,1 to 3,1
+10550,Caucasian,25 to 45,M,0,0
+3710,African-American,Less than 25,F,1 to 3,1
+5660,Caucasian,25 to 45,F,0,0
+4643,African-American,25 to 45,M,More than 3,1
+4769,Caucasian,25 to 45,F,1 to 3,0
+4170,Caucasian,25 to 45,F,More than 3,1
+9513,African-American,25 to 45,F,1 to 3,0
+3831,Caucasian,Less than 25,F,0,1
+10591,Caucasian,25 to 45,F,More than 3,1
+9092,Caucasian,Greater than 45,F,1 to 3,1
+7710,Caucasian,Less than 25,F,1 to 3,1
+5973,Caucasian,Greater than 45,M,More than 3,1
+3341,African-American,Less than 25,F,1 to 3,0
+5121,African-American,25 to 45,M,0,0
+5665,Caucasian,Greater than 45,F,More than 3,0
+8747,Caucasian,25 to 45,F,More than 3,1
+8858,African-American,Less than 25,F,1 to 3,0
+10305,African-American,Less than 25,F,0,1
+3344,African-American,25 to 45,F,1 to 3,1
+4360,Caucasian,Greater than 45,M,0,0
+814,Caucasian,25 to 45,F,1 to 3,1
+5046,African-American,Less than 25,F,0,0
+8703,Caucasian,Greater than 45,F,0,0
+10945,African-American,Less than 25,F,0,1
+3681,African-American,Greater than 45,F,More than 3,0
+1794,African-American,Greater than 45,F,1 to 3,0
+7955,African-American,Less than 25,F,1 to 3,1
+4101,African-American,25 to 45,M,More than 3,1
+120,African-American,25 to 45,M,1 to 3,0
+1076,Caucasian,Greater than 45,F,1 to 3,0
+3566,Caucasian,Less than 25,F,1 to 3,0
+9968,African-American,25 to 45,F,1 to 3,1
+4323,African-American,Less than 25,M,1 to 3,1
+3156,Caucasian,Greater than 45,F,More than 3,0
+2171,African-American,Less than 25,F,1 to 3,0
+6284,African-American,Less than 25,F,0,0
+6488,Caucasian,Greater than 45,M,0,0
+10997,African-American,Less than 25,F,0,0
+4719,Caucasian,25 to 45,M,0,0
+3761,African-American,25 to 45,F,More than 3,1
+2129,African-American,Less than 25,F,0,1
+7355,Caucasian,25 to 45,M,1 to 3,0
+2546,African-American,Greater than 45,F,0,0
+7446,Caucasian,Greater than 45,F,0,0
+7809,Caucasian,Greater than 45,F,0,1
+9741,African-American,Less than 25,F,1 to 3,1
+3647,African-American,Less than 25,F,0,0
+8380,Caucasian,25 to 45,F,1 to 3,1
+1629,African-American,25 to 45,F,1 to 3,0
+7304,Caucasian,25 to 45,F,0,0
+175,Caucasian,25 to 45,F,1 to 3,1
+9894,Caucasian,25 to 45,F,More than 3,1
+10087,Caucasian,Greater than 45,F,0,1
+7834,African-American,25 to 45,F,1 to 3,0
+68,Caucasian,Greater than 45,M,0,0
+5367,African-American,25 to 45,F,1 to 3,1
+2549,African-American,Greater than 45,M,1 to 3,0
+5387,African-American,25 to 45,M,0,1
+9714,African-American,Less than 25,F,More than 3,1
+8117,Caucasian,25 to 45,F,0,1
+5820,Caucasian,Less than 25,F,1 to 3,1
+393,African-American,25 to 45,F,1 to 3,0
+41,Caucasian,25 to 45,F,More than 3,1
+6550,African-American,Greater than 45,F,More than 3,1
+7077,African-American,25 to 45,F,More than 3,1
+10607,Caucasian,Less than 25,M,0,1
+2748,Caucasian,25 to 45,M,0,0
+10241,African-American,25 to 45,F,More than 3,1
+5217,African-American,25 to 45,F,0,1
+2179,African-American,Greater than 45,M,More than 3,0
+1632,African-American,25 to 45,F,More than 3,1
+8758,Caucasian,Greater than 45,M,More than 3,1
+5997,Caucasian,Less than 25,F,1 to 3,0
+425,Caucasian,Greater than 45,M,1 to 3,0
+6689,Caucasian,Greater than 45,M,1 to 3,0
+4134,African-American,Greater than 45,M,More than 3,1
+9486,African-American,Less than 25,F,0,1
+6384,African-American,Less than 25,F,More than 3,1
+2480,African-American,25 to 45,F,1 to 3,0
+8359,Caucasian,Greater than 45,F,0,1
+4556,African-American,25 to 45,M,1 to 3,0
+4953,African-American,25 to 45,F,More than 3,1
+4983,Caucasian,25 to 45,F,More than 3,1
+5584,African-American,Greater than 45,F,More than 3,0
+8814,African-American,25 to 45,M,0,1
+9787,African-American,Less than 25,F,0,1
+3856,African-American,25 to 45,F,More than 3,0
+2493,Caucasian,25 to 45,F,More than 3,1
+6131,African-American,Greater than 45,M,1 to 3,0
+10982,Caucasian,Less than 25,F,0,0
+6961,African-American,25 to 45,M,0,1
+4609,Caucasian,Greater than 45,M,0,0
+3952,Caucasian,25 to 45,M,0,0
+10895,African-American,25 to 45,F,More than 3,1
+1393,African-American,Greater than 45,F,1 to 3,1
+703,Caucasian,Greater than 45,F,1 to 3,0
+1860,Caucasian,Less than 25,F,1 to 3,1
+5996,African-American,25 to 45,F,More than 3,1
+4195,African-American,25 to 45,M,0,1
+10572,African-American,25 to 45,F,More than 3,1
+9578,African-American,25 to 45,M,More than 3,0
+8399,African-American,25 to 45,F,More than 3,1
+3318,Caucasian,Greater than 45,F,More than 3,0
+4780,Caucasian,Less than 25,F,1 to 3,0
+6653,Caucasian,25 to 45,F,More than 3,0
+9891,African-American,25 to 45,F,1 to 3,1
+8222,Caucasian,Less than 25,F,0,1
+8871,African-American,Less than 25,F,0,1
+7811,Caucasian,25 to 45,M,1 to 3,0
+1672,African-American,Less than 25,F,0,0
+5465,African-American,Less than 25,F,0,1
+6198,Caucasian,Greater than 45,F,1 to 3,0
+2672,African-American,25 to 45,F,More than 3,1
+998,African-American,25 to 45,F,More than 3,1
+5392,African-American,Greater than 45,M,1 to 3,0
+3032,African-American,25 to 45,F,More than 3,0
+5574,African-American,25 to 45,F,1 to 3,1
+9790,African-American,25 to 45,F,1 to 3,1
+9243,Caucasian,25 to 45,F,1 to 3,0
+7105,African-American,25 to 45,F,More than 3,1
+8528,African-American,25 to 45,F,1 to 3,0
+3157,Caucasian,Less than 25,F,0,0
+3630,Caucasian,Greater than 45,F,0,0
+10360,Caucasian,25 to 45,F,0,0
+9561,Caucasian,25 to 45,F,1 to 3,1
+3671,Caucasian,25 to 45,M,0,0
+4247,African-American,25 to 45,M,1 to 3,0
+10831,Caucasian,25 to 45,M,0,1
+3456,African-American,Less than 25,M,1 to 3,1
+8408,Caucasian,25 to 45,M,0,0
+1730,African-American,Greater than 45,F,More than 3,0
+361,Caucasian,Greater than 45,M,1 to 3,0
+10061,African-American,25 to 45,F,0,0
+8018,Caucasian,25 to 45,F,More than 3,1
+10783,Caucasian,Greater than 45,M,0,0
+7752,Caucasian,25 to 45,F,More than 3,1
+909,African-American,Less than 25,F,1 to 3,0
+934,African-American,25 to 45,F,More than 3,1
+4054,African-American,Less than 25,F,0,0
+3508,African-American,Less than 25,F,0,0
+7365,Caucasian,25 to 45,F,1 to 3,0
+547,Caucasian,25 to 45,F,0,0
+8661,Caucasian,Greater than 45,M,1 to 3,0
+5600,African-American,25 to 45,M,0,1
+1127,African-American,Less than 25,F,0,0
+5869,Caucasian,25 to 45,F,1 to 3,1
+1757,Caucasian,25 to 45,M,0,0
+7942,African-American,25 to 45,F,More than 3,1
+10659,African-American,25 to 45,F,More than 3,1
+4620,Caucasian,25 to 45,F,0,0
+4608,African-American,Less than 25,F,1 to 3,1
+6756,Caucasian,25 to 45,F,0,1
+6636,Caucasian,Less than 25,M,0,0
+537,African-American,Greater than 45,F,1 to 3,0
+1776,African-American,Less than 25,F,0,1
+5203,African-American,Less than 25,F,1 to 3,1
+2752,Caucasian,Greater than 45,M,0,0
+3096,African-American,Greater than 45,F,0,1
+1024,African-American,25 to 45,M,0,0
+1830,African-American,Less than 25,M,0,1
+1399,Caucasian,25 to 45,F,1 to 3,0
+5209,Caucasian,25 to 45,F,0,0
+9970,African-American,25 to 45,F,More than 3,1
+10,Caucasian,25 to 45,M,0,0
+4566,African-American,25 to 45,M,1 to 3,0
+6256,African-American,25 to 45,M,More than 3,1
+6923,African-American,25 to 45,F,0,0
+8483,African-American,25 to 45,F,More than 3,0
+7812,African-American,25 to 45,M,More than 3,1
+7838,African-American,Less than 25,M,0,1
+6398,Caucasian,25 to 45,M,0,0
+4479,African-American,25 to 45,M,1 to 3,0
+7286,Caucasian,25 to 45,F,1 to 3,0
+6392,African-American,Greater than 45,F,More than 3,1
+1854,African-American,25 to 45,F,1 to 3,0
+10454,African-American,25 to 45,F,More than 3,1
+3176,African-American,25 to 45,F,More than 3,0
+1542,African-American,25 to 45,M,More than 3,1
+8890,African-American,25 to 45,F,0,0
+10707,Caucasian,25 to 45,F,More than 3,1
+6149,African-American,Less than 25,F,0,1
+2069,African-American,Less than 25,F,0,0
+4061,Caucasian,Greater than 45,M,0,0
+641,Caucasian,25 to 45,M,0,1
+8188,Caucasian,25 to 45,M,1 to 3,0
+8164,African-American,25 to 45,M,More than 3,0
+8926,African-American,Less than 25,M,1 to 3,1
+1217,African-American,25 to 45,F,1 to 3,1
+6704,Caucasian,25 to 45,F,1 to 3,0
+2608,African-American,25 to 45,M,0,1
+6920,African-American,25 to 45,M,More than 3,0
+9567,African-American,25 to 45,F,0,0
+3058,African-American,25 to 45,M,0,1
+6011,Caucasian,Less than 25,F,1 to 3,0
+3628,African-American,Less than 25,F,More than 3,1
+1669,Caucasian,25 to 45,F,More than 3,1
+7511,African-American,Less than 25,F,0,1
+1750,Caucasian,Less than 25,F,0,1
+2843,Caucasian,25 to 45,M,0,0
+10570,Caucasian,Greater than 45,F,0,0
+3410,African-American,Greater than 45,F,1 to 3,0
+5891,Caucasian,25 to 45,F,0,0
+9924,Caucasian,25 to 45,F,0,1
+2188,African-American,Less than 25,M,0,1
+818,Caucasian,25 to 45,F,0,0
+1859,African-American,25 to 45,M,0,1
+9244,African-American,Less than 25,F,1 to 3,1
+7444,African-American,Less than 25,F,1 to 3,1
+197,Caucasian,25 to 45,M,1 to 3,0
+8515,African-American,25 to 45,F,1 to 3,0
+9777,African-American,25 to 45,F,0,1
+5837,Caucasian,25 to 45,M,0,0
+10165,African-American,25 to 45,F,More than 3,1
+3386,Caucasian,25 to 45,F,More than 3,1
+2698,Caucasian,Greater than 45,F,0,1
+8134,Caucasian,25 to 45,M,0,1
+4450,African-American,Less than 25,F,0,0
+3533,Caucasian,25 to 45,F,More than 3,1
+2370,African-American,25 to 45,M,0,0
+5693,African-American,25 to 45,F,More than 3,1
+4270,African-American,Less than 25,F,0,0
+9953,African-American,Less than 25,F,1 to 3,1
+8830,African-American,Less than 25,F,1 to 3,1
+10181,African-American,25 to 45,F,0,0
+2946,Caucasian,25 to 45,F,1 to 3,0
+7015,Caucasian,Less than 25,F,0,0
+6396,Caucasian,Greater than 45,F,More than 3,0
+608,Caucasian,25 to 45,F,0,0
+3674,African-American,25 to 45,F,0,0
+5528,Caucasian,25 to 45,F,0,0
+5321,Caucasian,Less than 25,M,1 to 3,1
+3485,African-American,25 to 45,F,More than 3,1
+358,Caucasian,25 to 45,F,0,1
+2066,Caucasian,25 to 45,F,More than 3,0
+10251,Caucasian,25 to 45,F,0,0
+59,Caucasian,25 to 45,M,1 to 3,1
+114,Caucasian,Less than 25,F,0,0
+4315,African-American,Greater than 45,M,More than 3,1
+6875,Caucasian,Less than 25,F,0,0
+8486,African-American,Greater than 45,F,More than 3,1
+7745,Caucasian,25 to 45,F,1 to 3,0
+1797,African-American,25 to 45,F,1 to 3,1
+8146,African-American,25 to 45,F,1 to 3,0
+6166,Caucasian,Less than 25,M,1 to 3,1
+3768,African-American,25 to 45,M,1 to 3,0
+4722,Caucasian,25 to 45,M,0,0
+7548,African-American,25 to 45,F,0,0
+4932,African-American,Greater than 45,F,1 to 3,1
+563,Caucasian,Greater than 45,M,1 to 3,1
+5477,Caucasian,25 to 45,F,0,0
+7973,African-American,25 to 45,M,0,0
+70,African-American,25 to 45,F,0,0
+8195,African-American,25 to 45,M,More than 3,0
+3741,African-American,25 to 45,F,More than 3,0
+5970,Caucasian,25 to 45,F,1 to 3,0
+1438,Caucasian,25 to 45,F,0,0
+10807,Caucasian,25 to 45,M,1 to 3,1
+9805,African-American,25 to 45,F,1 to 3,1
+884,Caucasian,Greater than 45,M,0,1
+2499,Caucasian,Greater than 45,F,1 to 3,1
+3398,African-American,Less than 25,F,1 to 3,1
+5816,African-American,25 to 45,F,1 to 3,1
+9064,African-American,25 to 45,F,More than 3,1
+9306,African-American,Less than 25,M,0,1
+156,Caucasian,Less than 25,F,More than 3,1
+3571,Caucasian,25 to 45,M,1 to 3,1
+700,African-American,25 to 45,F,More than 3,1
+6950,Caucasian,Greater than 45,F,1 to 3,0
+350,African-American,25 to 45,M,More than 3,1
+924,Caucasian,Greater than 45,M,0,0
+8357,African-American,Less than 25,F,0,1
+9965,Caucasian,Less than 25,F,1 to 3,0
+623,Caucasian,Greater than 45,M,0,0
+3403,African-American,25 to 45,F,More than 3,1
+2713,Caucasian,25 to 45,M,More than 3,0
+5853,African-American,25 to 45,F,0,1
+2071,African-American,25 to 45,M,More than 3,1
+1445,African-American,25 to 45,F,More than 3,1
+611,African-American,Greater than 45,F,More than 3,0
+6216,African-American,Less than 25,F,0,1
+9867,African-American,25 to 45,F,More than 3,1
+8425,African-American,Greater than 45,M,More than 3,1
+1698,Caucasian,Less than 25,M,0,0
+5122,African-American,Less than 25,F,More than 3,1
+1310,Caucasian,Less than 25,F,1 to 3,0
+5792,Caucasian,25 to 45,M,1 to 3,1
+2002,Caucasian,Greater than 45,M,More than 3,0
+3020,African-American,Greater than 45,F,1 to 3,0
